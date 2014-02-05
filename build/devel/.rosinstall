@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/ros/groovy/stacks/oculusrotor/wii_nunchuck/build/devel/setup.sh

@@ -1,0 +1,26 @@
+<package>
+  <description brief="ros-arduino-gameshield">
+    ros-arduino-gameshield is based off the wayne and layne gameshield for
+    arduino
+    allows the use of 2 wii_nunchuck controllers
+    
+    publishes information on the x,y position of the joystick
+    x,y,z information from the accelerometer
+    boolean values for the c and z buttons being pressed
+
+  </description>
+  <author>Evan O'Keeffe</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="rosserial_arduino"/>
+  
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+
+</package>
+
+
