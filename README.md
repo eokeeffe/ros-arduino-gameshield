@@ -44,4 +44,4 @@ Future Updates:
 
 -Hydro Support
 
--Add extra published for the second nunchuck
+-Add extra publisher for the second nunchuck
